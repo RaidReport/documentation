@@ -23,7 +23,7 @@ Build your own templates in no time and host anything you want
 Built to work wherever you are
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. tab:: Desktop
+.. tab:: Desktopp
 
    .. image:: images/featuretour/serverviewdesktop.png
 
